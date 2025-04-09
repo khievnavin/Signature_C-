@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uxpRD0MV1kBnWnP+9aS7ZGTNsDGVhr69FDraTDfNU9w=",
+  "Source": "DigitalSignatureApi",
+  "BasePath": "_content/DigitalSignatureApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
